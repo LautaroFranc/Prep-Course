@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color:rgba(145, 145, 145, 0.473)
+}
+img{
+    width:400px;
+}
+#thirdDiv{
+    height:600px;
+    width:500px;
+    padding:50px;
+    background-color:rgb(0, 0, 0);
+    border-left:15px solid rgb(255, 251, 0);
+}
+
+#spanId{
+    font-size:18px;
+    margin: 50px;
+}
